@@ -1,3 +1,7 @@
+<h2>Preview Link: https://marinkiet.github.io/TravelSitesSA/</h2>
+<img src="https://user-images.githubusercontent.com/69327534/175694755-9281fbe2-2c08-4532-992a-593394a5ab54.png"></img>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
