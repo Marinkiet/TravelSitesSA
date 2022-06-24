@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TravelSitesSA/static/css/main.a76dc924.css",
+    "main.js": "/TravelSitesSA/static/js/main.faaf46f0.js",
+    "static/js/787.ab9874b1.chunk.js": "/TravelSitesSA/static/js/787.ab9874b1.chunk.js",
+    "static/media/gir.jpg": "/TravelSitesSA/static/media/gir.a1ae7d627ce965a4e67d.jpg",
+    "static/media/logo.svg": "/TravelSitesSA/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TravelSitesSA/index.html",
+    "main.a76dc924.css.map": "/TravelSitesSA/static/css/main.a76dc924.css.map",
+    "main.faaf46f0.js.map": "/TravelSitesSA/static/js/main.faaf46f0.js.map",
+    "787.ab9874b1.chunk.js.map": "/TravelSitesSA/static/js/787.ab9874b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76dc924.css",
+    "static/js/main.faaf46f0.js"
+  ]
+}
